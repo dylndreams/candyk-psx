@@ -1,4 +1,5 @@
-### CandyK-PSX: A candy shop of tools and libraries for PlayStation development
+### CandyK-PSX
+A candy shop of tools and libraries for PlayStation development
 
 This readme will need to be better fleshed-out.
 
