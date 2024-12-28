@@ -17,6 +17,7 @@ Toolchain examples are licensed under the Creative Commons Zero license - feel a
 
 1. Install or compile pacman (the Arch Linux package manager).
 2. Append the following to /etc/pacman.conf:
+3. Assuming you git cloned this repo, export the MIPS Bin to PATH: `export PATH=/opt/wonderful/toolchain/gcc-mipsel-elf/bin:$PATH`
 
 ```
 [candyk]
