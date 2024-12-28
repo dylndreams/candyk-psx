@@ -27,8 +27,7 @@ Server = http://candyk.asie.pl/repo/x86_64
 4. `pacman -S candyk-psx`
 
 ### Source
-
-TODO
+1. You will need to install the Wonderful Toolchain
 
 ## Architecture
 
