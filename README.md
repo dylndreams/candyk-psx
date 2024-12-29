@@ -28,7 +28,7 @@ Server = http://candyk.asie.pl/repo/x86_64
 
 ### Source
 1. You will need to install the [Wonderful Toolchain](https://wonderful.asie.pl/docs/getting-started/)
-2. Install the MIPS toolchain through wf-pacman: `wf-pacman -S toolchain-gcc-mipsel-3. 
+2. Install the MIPS toolchain through wf-pacman: `wf-pacman -S toolchain-gcc-mipsel-elf 
 3. Assuming you git cloned this repo, export the MIPS Bin to PATH: `export PATH=/opt/wonderful/toolchain/gcc-mipsel-elf/bin:$PATH`
 4. All you to do now is enter the directory and make.
 5. If you made changes to the libs or tools, do make tools and/or make libs
