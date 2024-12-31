@@ -44,10 +44,10 @@ Server = http://candyk.asie.pl/repo/x86_64
 * `toolsrc/`: Source code for host-native tools
 
 ### Libraries
-* chenboot: crt0 and interupt bootstrap facilites 
-* orelei: SPU sound driver
-* sawpads:
-* seedy: CD-ROM driver
+* `chenboot`: crt0 and interupt bootstrap facilites 
+* `orelei`: SPU sound driver
+* `sawpads`: joystick driver
+* `seedy`: CD-ROM driver
 
 ### Makefile system
 
