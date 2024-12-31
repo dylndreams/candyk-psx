@@ -43,6 +43,12 @@ Server = http://candyk.asie.pl/repo/x86_64
 * `src/`: Source code for PlayStation libraries
 * `toolsrc/`: Source code for host-native tools
 
+### Libraries
+* chenboot:
+* orelei: SPU sound driver
+* sawpads:
+* seedy: CD-ROM driver
+
 ### Makefile system
 
 TODO: formalise this.
