@@ -51,9 +51,18 @@ Server = http://candyk.asie.pl/repo/x86_64
 
 ### Tools
 
+TODO: doing this on phone is painful
+
 ### Makefile system
 
 TODO: formalise this.
 
 Basically there's a bunch of `target.make` files which are included as needed.
 
+### TODO
+* Add more examples.
+* A GPU/GTE library.
+* Some sort of printf.
+* Add support for resource packages (e.g. psxfudge, rres, etc. maybe I'm pushing it)
+* Add some demos maybe.
+* A template.
