@@ -15,6 +15,7 @@ https://creativecommons.org/publicdomain/zero/1.0/
 #include <errno.h>
 
 #include <chenboot.h>
+#include <eyecandy.h>
 #include <psxdefs/gpu.h>
 #include <psxdefs/intc.h>
 #include <psxregs.h>
