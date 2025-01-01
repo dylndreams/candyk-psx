@@ -1,3 +1,15 @@
+/*
+
+eyecandy: GPU code
+
+all of this code is from chenboot_triangle
+and probably all the gte code would be from
+ps1-bare-metal repo. soo i'll figure out a license 
+when im done with it
+
+
+*/
+
 #include <assert.h>
 #include <string.h>
 #include <stdlib.h>
