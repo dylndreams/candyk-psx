@@ -75,7 +75,7 @@ This requires a license.dat. Inorder to grab such, grab your legally obtained PS
 dd if=game.bin of=license.dat bs=2352 count=16
 ```
 And then reference that file in manifest.txt under the `lic` variable.
-(or use make a blank license to avoid legal trouble, just replace `game.bin` with `/dev/zero`)
+(or use the blank license included, thx spicyjpeg :p)
 
 ### psxavenc notes
 
