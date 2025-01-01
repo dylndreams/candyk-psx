@@ -1,7 +1,7 @@
 # CANDYK
 A candy shop of tools and libraries for PlayStation development
 
-This readme will need to be better fleshed-out.
+This readme will need to be better fleshed-out. Im also really bad at git
 
 ## Licensing
 
