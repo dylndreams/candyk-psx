@@ -1,5 +1,5 @@
 bin=triangle.bin
 cue=triangle.cue
-lic=../../dat/isolicence.pal
+lic=../../dummy.dat
 dat=./system.cnf
 dat=./triangle.exe
