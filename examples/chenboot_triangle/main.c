@@ -1,5 +1,5 @@
 /*
-chenboot_triangle: Hello, triangle! (Bare minimum setup w/ chenboot)
+chenboot_triangle: Hello, triangle! (Bare minimum setup w/ chenboot and eyecandy)
 Copyright (C) GreaseMonkey, 2017, licensed under Creative Commons Zero:
 https://creativecommons.org/publicdomain/zero/1.0/
 
