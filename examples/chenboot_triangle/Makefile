@@ -3,7 +3,7 @@
 SRCS = \
 	main.c
 
-LIBS = -nostdlib -L../../lib -lgcc -lc -lchenboot
+LIBS = -nostdlib -L../../lib -lgcc -lc -lchenboot -leyecandy
 INCLUDES = -I../../include
 
 CROSSPREFIX = mipsel-elf-
