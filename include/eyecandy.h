@@ -1,9 +1,13 @@
+/*
 
+eyecandy: GPU code
 
-volatile uint32_t vblank_counter = 0;
-volatile int out_vidy = 0;
-volatile int real_out_vidy = 0;
+all of this code is from chenboot_triangle
+and probably all the gte code would be from
+ps1-bare-metal repo. soo i'll figure out a license 
+when im done with it
 
+*/
 void eyecandy_write_gp0_command(uint32_t v);
 void eyecandy_write_gp0_data(uint32_t v);
 void eyecandy_write_gp1(uint32_t v);
