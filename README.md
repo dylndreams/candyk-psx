@@ -44,7 +44,8 @@ Server = http://candyk.asie.pl/repo/x86_64
 * `toolsrc/`: Source code for host-native tools
 
 ### Libraries
-* `chenboot`: crt0 and interupt bootstrap facilites 
+* `chenboot`: crt0 and interupt bootstrap facilites
+* `eyecandy`: a low-level GPU library (HEAVY WIP)
 * `orelei`: SPU sound driver
 * `sawpads`: joystick driver
 * `seedy`: CD-ROM driver
