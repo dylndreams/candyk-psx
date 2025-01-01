@@ -61,7 +61,7 @@ Basically there's a bunch of `target.make` files which are included as needed.
 
 ### TODO
 * Add more examples.
-* A GPU/GTE library.
+* Add GTE Support for eyecandy.
 * Some sort of printf.
 * Add support for resource packages (e.g. psxfudge, rres, etc. maybe I'm pushing it)
 * Add some demos maybe.
