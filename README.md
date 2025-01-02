@@ -45,12 +45,6 @@ Toolchain examples are licensed under the Creative Commons Zero license - feel a
 * `psxavenc`: a tool that converts your files into Playstation 1 formats
 * `xainterleave`: a tool that interleaves your .XA file
 
-### Makefile system
-
-TODO: formalise this.
-
-Basically there's a bunch of `target.make` files which are included as needed.
-
 ## Notes
 
 ### pscd-new notes
@@ -66,6 +60,7 @@ And then reference that file in manifest.txt under the `lic` variable.
 
 For some, including myself, it wont build because of some misincludes in the offical `libavutil` include.
 The way I solved was to git clone the [offical repository](https://github.com/WonderfulToolchain/psxavenc) and follow those steps.
+I will try to see if i can fix it but that will be the way to go for now.
 
 ### eyecandy notes
 
