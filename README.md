@@ -71,7 +71,7 @@ I do plan on adding some GTE support but my C knowledge is only but so limited, 
 
 * Add more examples.
 * Add GTE Support for eyecandy.
-* Some sort of printf (it exists somewhere).
+* Some sort of printf (most likely to chenboot).
 * Add support for resource packages (e.g. psxfudge, rres, etc. maybe I'm pushing it)
 * Add some demos maybe.
 * A template.
