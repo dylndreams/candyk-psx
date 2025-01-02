@@ -49,7 +49,7 @@ Toolchain examples are licensed under the Creative Commons Zero license - feel a
 
 ### pscd-new notes
 
-This requires a license.dat. Inorder to grab such, grab your legally obtained PS1 game and copy this:
+This requires a license.dat. In order to obtain such, grab your legally obtained PS1 game and copy this:
 ```
 dd if=game.bin of=license.dat bs=2352 count=16
 ```
